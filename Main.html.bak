@@ -82,8 +82,8 @@
 			<th>Secondary Type</th>
 		</tr>
 		<tr>
-			<td>Grass</td>
-			<td>Ghost</td>
+			<td style="background-color: green; color: White">Grass</td>
+			<td style="background-color: purple; color: White">Ghost</td>
 		</tr>
 	</table>
 	<table>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
       <td>Unaware</td>
-      <td><p>When this Pokemon is targeted by </p>
-	  <p>a damaging move, the attacking Pokemon's stats</p>
-	  <p>are ignored when calculating damage and accuracy</p></td>
+      <td>
+	  When this Pokemon is targeted by a damaging move, the attacking Pokemon's stats are ignored when calculating damage and accuracy
+	  </td>
     </tr>
     <tr>
       <td>Prankster</td>
@@ -135,15 +135,52 @@
     </tr>
     <tr>
       <td><strong>Base Stat Total:</strong></td>
-      <td class="data-bar"><span style="width: 300px;"></span>        542</td>
+      <td class="data-bar"><span style="width: 252px;"></span>  542</td>
     </tr>
-	    <tr>
+	<tr>
       <td>Effective against</td>
       <td>Water, Rock, Ground, Ghost, Psychic</td>
     </tr>
     <tr>
       <td>Weak Against</td>
       <td>Fire, Ice, Dark, Ghost, Flying</td>
+    </tr>
+  </table>
+  <table>
+  <tr>
+      <th>Moves</th>
+	  <th>Type</th>
+	  <th>Base Power</th>
+	  <th>Category</th>
+	  <th>Description</th>
+    </tr>
+  <tr>
+      <td>Caffine Over Charge</td>
+	  <td>Grass</td>
+	  <td>-----</td>
+	  <td>Status</td>
+      <td>Increase speed by 2 stages, recover 33% of HP</td>
+    </tr>
+	<tr>
+      <td>Loud Scream</td>
+	  <td>Ghost</td>
+	  <td>-----</td>
+	  <td>Status</td>
+      <td>Lower Target/s Atk and Sp.Atk by 1 stage, Increase Def and Sp.Def by 1 stage</td>
+    </tr>
+	<tr>
+      <td>Trash Throw</td>
+	  <td>Poison</td>
+	  <td>-----</td>
+	  <td>Status</td>
+      <td>Scatters trash on enemy side, dealing effective damage and applying poison on switch-ins</td>
+    </tr>
+	<tr>
+      <td>Sneaky Surprise</td>
+	  <td>Ghost</td>
+	  <td>40 BP</td>
+	  <td>Special</td>
+      <td>Priority +1, Deals Effective Grass damage, Gain 25% of HP on damage dealt</td>
     </tr>
   </table>
     </div>
@@ -194,34 +231,37 @@
   </section>
   <section>
 	<div class="container">
-		<h2>Play With A Smile</h2>
+	  <h2>Play With A Smile</h2>
+		<h3>by the EraserHeads</h3>
 			<audio controls>
 				<source src="https://drive.google.com/uc?export=download&id=14m_yzwuzfM8cVGhY4qyzye88v5w3hzj_"type="audio/mpeg">
 				Your browser does not support the audio element.
 			</audio>
 
 	  <h2>Play Welcome to the black parade</h2>
+		<h3>by the My Chemical Romance</h3>
 			<audio controls>
 				<source src="https://drive.google.com/uc?export=download&id=1QAMoEKRWheTk04tLUFrqKUchWZDtyrin"type="audio/mpeg">
 				Your browser does not support the audio element.
 			</audio>
 
 	  <h2>Play Another Morning</h2>
+		<h3>by the Pillows</h3>	  
 			<audio controls>
 				<source src="https://drive.google.com/uc?export=download&id=1B6CAXwa1Jw7_oTo1OVY9rImCeATVSTDW"type="audio/mpeg">
 				Your browser does not support the audio element.
 			</audio>
 	  </div>
 	<div>
-  </section>
-  <section id="projects">
-    <div class="container3">
-      <h2>Contact</h2>
-      <p>Email: estopiahanz@gmail.com</p>
-      <p>Phone: 09151603155</p>
-	  <p>Facebook: HL Estopia</p>
-    </div>
-  </section>
+	
+<section id="projects">
+  <div class="container3">
+    <h2>Contact Me Through Here</h2>
+    <p class="flashy">Email: estopiahanz@gmail.com</p>
+    <p class="flashy">Phone: 09151603155</p>
+    <p class="flashy">Facebook: HL Estopia</p>
+  </div>
+</section>
 
   <footer>
     <div class="container4">
