@@ -76,15 +76,15 @@
 	<h2>If I was a Pokemon</h2>
 	<h3>Because why not (no context required)</h3>
     <div class="container2">
-    <table>
-    <tr>
-      <th>Primary Type</th>
-	  <th>Secondary Type</th>
-    </tr>
-    <tr>
-      <td>Grass</td>
-	  <td>Ghost</td>
-    </tr>
+    <table class="custom-table">
+		<tr>
+			<th>Primary Type</th>
+			<th>Secondary Type</th>
+		</tr>
+		<tr>
+			<td>Grass</td>
+			<td>Ghost</td>
+		</tr>
 	</table>
 	<table>
     <tr>
@@ -110,32 +110,32 @@
 	  <th>Values</th>
     </tr>
     <tr>
-      <td><strong>HP:</strong> 110</td>
-      <td class="data-bar"><span style="width: 110px;"></span>110</td>
+      <td><strong>HP:</strong></td>
+      <td class="data-bar"><span style="width: 110px;"></span>  110</td>
     </tr>
     <tr>
-      <td><strong>Attack:</strong> 60</td>
-      <td class="data-bar"><span style="width: 60px;"></span>60</td>
+      <td><strong>Attack:</strong></td>
+      <td class="data-bar"><span style="width: 60px;"></span>  60</td>
     </tr>
 	<tr>
-      <td><strong>Defense:</strong> 100</td>
-      <td class="data-bar"><span style="width: 100px;"></span>100</td>
+      <td><strong>Defense:</strong></td>
+      <td class="data-bar"><span style="width: 100px;"></span>  100</td>
     </tr>
     <tr>
-      <td><strong>Special Attack:</strong> 70</td>
-      <td class="data-bar"><span style="width: 70px;"></span>70</td>
+      <td><strong>Special Attack:</strong></td>
+      <td class="data-bar"><span style="width: 70px;"></span>  70</td>
     </tr>
     <tr>
-      <td><strong>Special Defense:</strong> 100</td>
-      <td class="data-bar"><span style="width: 100px;"></span>100</td>
+      <td><strong>Special Defense:</strong></td>
+      <td class="data-bar"><span style="width: 100px;"></span>  100</td>
     </tr>
 	<tr>
-      <td><strong>Speed:</strong> 102</td>
-      <td class="data-bar"><span style="width: 102px;"></span>102</td>
+      <td><strong>Speed:</strong></td>
+      <td class="data-bar"><span style="width: 102px;"></span>  102</td>
     </tr>
     <tr>
-      <td><strong>Base Stat Total:</strong> 542</td>
-      <td class="data-bar"><span style="width: 300px;"></span>542</td>
+      <td><strong>Base Stat Total:</strong></td>
+      <td class="data-bar"><span style="width: 300px;"></span>        542</td>
     </tr>
 	    <tr>
       <td>Effective against</td>
@@ -161,31 +161,31 @@
       <div class="project">
         <h3>The Perfect Score</h3>
 		  <img src="Perfect Score.jpg" alt="This Movie has a solid cast, and I love their dynamics with each other" height="500px" width="500px">
-        <p>"Reality Bites" is a coming-of-age film directed by Ben Stiller that explores the lives of a group of friends navigating post-college life in the 1990s. It delves into themes of love, friendship, and the challenges of finding one's identity in a rapidly changing world.</p>
+        <p class="description">"Reality Bites" is a coming-of-age film directed by Ben Stiller that explores the lives of a group of friends navigating post-college life in the 1990s. It delves into themes of love, friendship, and the challenges of finding one's identity in a rapidly changing world.</p>
       </div>
 	  
 	  <div class="project">
         <h3>Reality Bites</h3>
 		  <img src="Reality Bites.jpg" alt="Solid cast, sound track, story, and pacing... all I can ask for in a movie" height="500px" width="500px">
-        <p>"The Perfect Score" is a teen comedy film that follows a group of high school students who band together to steal the answers to a standardized test. As they face moral dilemmas and unexpected obstacles, they learn valuable lessons about integrity, friendship, and the pressure to succeed.</p>
+        <p class="description">"The Perfect Score" is a teen comedy film that follows a group of high school students who band together to steal the answers to a standardized test. As they face moral dilemmas and unexpected obstacles, they learn valuable lessons about integrity, friendship, and the pressure to succeed.</p>
       </div>
 	  
 	  <div class="project">
         <h3>FLCL</h3>
 		  <img src="FLCL.jpg" alt="Peak Studio GAINAX stuff, the animation and the music by the Pillows carried this piece of art" height="500px" width="500px">
-        <p>"FLCL" (Fooly Cooly) is a surreal and fast-paced anime series known for its eccentric storytelling and unique visual style. It revolves around the life of a young boy named Naota, who encounters a mysterious girl wielding a guitar-shaped weapon, leading to a series of bizarre and mind-bending events that blend sci-fi, coming-of-age themes, and absurd humor.</p>
+        <p class="description">"FLCL" (Fooly Cooly) is a surreal and fast-paced anime series known for its eccentric storytelling and unique visual style. It revolves around the life of a young boy named Naota, who encounters a mysterious girl wielding a guitar-shaped weapon, leading to a series of bizarre and mind-bending events that blend sci-fi, coming-of-age themes, and absurd humor.</p>
       </div>
 	  
 	  <div class="project">
         <h3>One Piece</h3>
 		  <img src="One Piece.jpg" alt="A modern fantasy epic like the Oddesy and Illiad, peak world building and story" height="500px" width="500px">
-        <p>"One Piece" is a popular manga and anime series created by Eiichiro Oda. It follows the adventures of Monkey D. Luffy, a pirate with the ability to stretch his body like rubber, and his crew, as they journey through the vast and dangerous seas in search of the ultimate treasure known as the One Piece. The series is known for its vast world-building, epic battles, and memorable characters.</p>
+        <p class="description">"One Piece" is a popular manga and anime series created by Eiichiro Oda. It follows the adventures of Monkey D. Luffy, a pirate with the ability to stretch his body like rubber, and his crew, as they journey through the vast and dangerous seas in search of the ultimate treasure known as the One Piece. The series is known for its vast world-building, epic battles, and memorable characters.</p>
       </div>
 	  
 	  <div class="project">
         <h3>Primal</h3>
 		  <img src="Primal.jpg" alt="This show barely has any dialogue... I love it to bits, sound department was fed very well during production" height="500px" width="500px">
-        <p>"Primal" is an animated series created by Genndy Tartakovsky, known for its visually stunning animation and minimal dialogue. Set in a prehistoric world, it follows the unlikely partnership between a caveman and a dinosaur as they navigate through a brutal and unforgiving landscape, facing both natural and supernatural threats. The series explores themes of survival, primal instincts, and the bond between two unlikely allies.</p>
+        <p class="description">"Primal" is an animated series created by Genndy Tartakovsky, known for its visually stunning animation and minimal dialogue. Set in a prehistoric world, it follows the unlikely partnership between a caveman and a dinosaur as they navigate through a brutal and unforgiving landscape, facing both natural and supernatural threats. The series explores themes of survival, primal instincts, and the bond between two unlikely allies.</p>
       </div>
 	  
 	  <div>
