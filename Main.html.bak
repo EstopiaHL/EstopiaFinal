@@ -76,15 +76,15 @@
 	<h2>If I was a Pokemon</h2>
 	<h3>Because why not (no context required)</h3>
     <div class="container2">
-    <table class="custom-table">
-		<tr>
-			<th>Primary Type</th>
-			<th>Secondary Type</th>
-		</tr>
-		<tr>
-			<td>Grass</td>
-			<td>Ghost</td>
-		</tr>
+    <table>
+    <tr>
+      <th>Primary Type</th>
+	  <th>Secondary Type</th>
+    </tr>
+    <tr>
+      <td>Grass</td>
+	  <td>Ghost</td>
+    </tr>
 	</table>
 	<table>
     <tr>
